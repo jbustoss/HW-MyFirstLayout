@@ -1,0 +1,83 @@
+body {
+    background-image: url("background.png");
+    background-color: #cccccc;
+    background-position: center;
+   }
+.leftblue {
+    display: inline-block;
+    float: left;
+    width: 125px;
+    height: 650px;
+}
+.row1 {
+    display: inline-block;
+    padding-left: 250px;
+}
+.header {
+    display: inline-block;
+    width: 265px;
+    height: 265px;
+    padding: 10px;
+    padding-top: 150px;
+}
+.name {
+    font-family: 'Major Mono Display', monospace;
+    color: white;
+    font-size: 88px;
+    display: inline-block;
+    padding-left: 50px;
+}
+.about {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 740px;
+    height: 230px;
+    font-size: 24px;
+    padding-top: 100px;
+    margin: auto;
+    text-justify: left;
+}
+.facts {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin: auto;
+    width: 740px;
+    height: 230px;
+    font-size: 24px;
+    padding-top: 50px;
+    text-align: left;
+}
+.rightblue {
+    display: inline-block;
+    width: 125px;
+    height: 650px;
+    float: right;
+}
+.socials {
+    text-align: center;
+}
+.leftline {
+    padding-left: 100px;
+    display: inline-block;
+    padding-right: 100px;
+    transform: translateY(-32px);
+}
+.linkedin {
+    display: inline-block;
+    padding-right: 26px;
+}
+.behance {
+    display: inline-block;
+    padding-left: 26px;
+    padding-right: 26px;
+    transform: translateY(-7px);
+}
+.dribble {
+    display: inline-block;
+    padding-left: 26px;
+}
+.rightline {
+    display: inline-block;
+    padding-left: 100px;
+    transform: translateY(-32px);
+}
